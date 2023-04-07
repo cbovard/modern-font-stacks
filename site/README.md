@@ -3,8 +3,8 @@
 A simple site showcasing all the different font stacks
 
 #### NPM Packages Used
-- [HTML Includes](https://github.com/entozoon/html-includes) - HTML compilation with partial includes and minification
-- [Server](https://github.com/lukejacksonn/servor) - A dependency-free dev server for modern web application development
+- [HTML Includes](https://github.com/entozoon/html-includes) - HTML compilation with partial includes and minification.
+- [Server](https://github.com/lukejacksonn/servor) - A dependency-free dev server for modern web application development.
 
 
 ## NPM Scripts
